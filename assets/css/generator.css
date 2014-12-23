@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+#createuser .form-field input[type=checkbox] {
+	width: auto;
+}
+
+#generator-length {
+	width: 50px !important;
+}

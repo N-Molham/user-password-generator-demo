@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dashboard User Password Generator\n"
+"POT-Creation-Date: 2014-12-23 19:49+0200\n"
+"PO-Revision-Date: 2014-12-23 19:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: Nabeel Molham <n.molham@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_ex;esc_attr_e;esc_attr__;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
+"X-Poedit-SearchPathExcluded-1: ../includes/redux-framework\n"
+
+#: ../master.php:82
+msgid "Generate Random Password"
+msgstr ""
+
+#: ../master.php:84
+msgid "Generated password will be shown here to copy"
+msgstr ""
+
+#: ../master.php:91
+msgid "Length"
+msgstr ""
+
+#: ../master.php:96
+msgid "Use Special Characters"
+msgstr ""
+
+#: ../master.php:102
+msgid "Use <b>EXTRA</b> Special Characters"
+msgstr ""
